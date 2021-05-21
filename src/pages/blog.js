@@ -15,8 +15,8 @@ const BlogPage = ({ data }) => {
         title="Blog"
         styleClass="blog-background"
       />
-      <Bloginfo />
-      </Layout>
+    <Bloginfo />
+  </Layout>
   );
 };
 

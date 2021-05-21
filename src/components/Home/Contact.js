@@ -44,14 +44,17 @@ return (
             />
             </div>
             {/* email */}
+            <div className="col-10 col-sm-8 mx-auto text-center">      
             <button
             type="submit"
             className="btn btn-yellow btn-block text-capitalize mt-5"
             >
             submit
             </button>
+            </div>
         </form>
         </div>
+    
     </div>
     </section>
 );
